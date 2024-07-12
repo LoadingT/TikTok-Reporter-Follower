@@ -13,3 +13,8 @@ If you have any work or ideas to create something, write to me in telegram https
 Пример использования в main.py
 
 Если у вас есть какая-нибудь работа или идеи для создания чего-либо, напишите мне в телеграм https://t.me/qqrr_developer
+
+-----------
+requerements
+
+pycurl, Bs4
